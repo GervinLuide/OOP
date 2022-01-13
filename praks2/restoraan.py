@@ -7,3 +7,4 @@ class Restoraan():
 
     def ava_restoraan(self):
         print("restoraan on avatud")
+
