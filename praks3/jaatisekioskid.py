@@ -1,6 +1,6 @@
-from jaatisekiosk import JaatiseKiosk
+from praks3.jaatisekiosk import JaatiseKiosk
 
-kiosk = JaatiseKiosk("Minu kiosk", "jäätist")
+kiosk = JaatiseKiosk("Varbavahe", "jäätist")
 kiosk.jaatise_valik = "Vanilli, mandli, sokolaadi"
-kiosk.kirjelda_restoraan()
+kiosk.kirjelda_restoran()
 kiosk.naita_jaatise_valik()
