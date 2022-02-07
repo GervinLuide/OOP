@@ -1,4 +1,4 @@
-from praks2.kasutajad3 import Kasutaja
+from praks2.kasutaja3 import Kasutaja
 
 class Admin(Kasutaja):
     privileegid = "lubatud lisada kasutajad", "lubatud eemaldada kasutajad", "lubatud blokeerida kasutajad"
